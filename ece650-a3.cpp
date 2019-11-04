@@ -7,7 +7,6 @@
 
 using namespace std;
 
-
 void setup_for_rgen(){
     int pipe_myrgen[2];
     close(pipe_myrgen[0]);
